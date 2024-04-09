@@ -56,3 +56,7 @@
     padding: 15px 0;
     text-align: center;
   }
+  .fundo-um{
+    background-image: linear-gradient(#1803fb,#151c40);
+  }
+ 
